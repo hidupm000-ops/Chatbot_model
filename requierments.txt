@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-plotly
-sqlalchemy
-pymysql
-requests
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.5
+plotly==6.0.1
+sqlalchemy==2.0.40
+pymysql==1.1.1
+requests==2.32.3
